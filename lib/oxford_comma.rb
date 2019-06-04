@@ -1,4 +1,4 @@
 def oxford_comma(array)
   if array.length == 2 
-    puts 
+    puts "#{array(1)}"
 end
